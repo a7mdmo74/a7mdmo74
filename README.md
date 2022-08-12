@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend Development & Software Development**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-a7mdmo74.vercel.app/](https://personal-portfolio-a7mdmo74.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-a7mdmo74.vercel.app/)
 
 - 💬 Ask me about **React.js & Next.js**
 
