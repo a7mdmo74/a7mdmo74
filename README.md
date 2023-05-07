@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-n53l.vercel.app/](https://personal-portfolio-n53l.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-a7mdmo74.vercel.app/](https://my-portfolio-a7mdmo74.vercel.app/)
 
 - 💬 Ask me about **React.js, MongoDB, Node.js, Express.js**
 
