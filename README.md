@@ -14,7 +14,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a tea aficionado, and I firmly believe that the perfect day begins and ends with a soothing cup of tea..
-- 👨‍💻 Check out my portfolio at https://my-portfolio-a7mdmo74.vercel.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://portfolio-a7mdmo74.vercel.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
