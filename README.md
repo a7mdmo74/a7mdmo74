@@ -69,15 +69,8 @@ I believe in **clean code, scalability, and delightful experiences** that users 
 ### 🛍️ [Al Emar International](https://shop.al-emar.com/)
 **Stack:** React, Tailwind CSS, REST APIs  
 - Developed the front-end for an advanced finishing and sanitary products store.  
-- Created a **clean product showcase** with smooth navigation.  
-
----
-
-### 🎨 [Bassant Portfolio Theme](https://bassant-portfolio.ahmedmuhammad.site/)
-**Stack:** WordPress, Custom Theme Development  
-- Designed and developed a **portfolio theme** for creative professionals.  
-- Focused on **minimal design** and **easy customization**.  
-
+- Created a **clean product showcase** with smooth navigation.
+  
 ---
 
 ## 📈 GitHub Insights
@@ -93,7 +86,7 @@ I believe in **clean code, scalability, and delightful experiences** that users 
 ---
 
 ## 📜 Career Timeline
-- 🔥 **2025-Present** – Front-End Developer @ **NeoXero** (Next.js, SEO, APIs)  
+- 🌟 **2025** – Front-End Developer @ **NeoXero** (Next.js, SEO, APIs)  
 - 🌍 **2025** – Front-End Developer (Remote) @ **WeCode**  
 - 📚 **2019-2023** – Computer Science @ **Mansoura University**  
 
