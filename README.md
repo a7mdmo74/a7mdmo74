@@ -1,52 +1,83 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
-  Welcome to Ahmed Muhammad's github profile!
+<h2 align="center">
+  Welcome to Ahmed Muhammad's GitHub Profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Always+learning+new+technologies;Clean+Code+%26+Modern+UI%2FUX&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a tea aficionado, and I firmly believe that the perfect day begins and ends with a soothing cup of tea..
-- 👨‍💻 Check out my portfolio at https://portfolio-a7mdmo74.vercel.app/ to see some of the projects I've worked on.
+---
 
+### 👨‍💻 About Me
+- 🏢 **Front-End Developer** with 3+ years of experience  
+- 🔭 Worked on **eCommerce, admin dashboards, and social media platforms**  
+- 🌱 Skilled in **React.js, Next.js 15, TypeScript, Tailwind CSS, Prisma, MongoDB**  
+- 🎨 Passionate about **clean code, accessibility, and UI/UX design**  
+- 🌍 Open to **new opportunities** in Emirates 🇦🇪  
+- ⚡ Fun Fact: I start my day with ☕ coffee and end it with 🍵 tea.  
 
-### Connect with Me :
+---
 
-<a href="https://linkedin.com/in/a7mdmo74" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/a7mdmo74" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Muhammad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🔗 Quick Links
+- 🌐 **Portfolio**: [a7mdmo74.vercel.app](https://a7mdmo74.vercel.app)  
+- 📝 **Resume**: [View Resume](https://github.com/a7mdmo74) _(attach PDF in repo)_  
+- 🎨 **WordPress Theme**: [Bassant Portfolio](https://bassant-portfolio.ahmedmuhammad.site/)  
+- 💼 **LinkedIn**: [linkedin.com/in/a7mdmo74](https://www.linkedin.com/in/a7mdmo74)  
+- 📧 **Email**: [a7mdmo74@gmail.com](mailto:a7mdmo74@gmail.com)  
+
+---
+
+### 🛠️ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailiwndCSS-05122A?style=flat&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![ShadCN/UI](https://img.shields.io/badge/-ShadCN%2FUI-05122A?style=flat&logo=react)&nbsp;
+![FramerMotion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![FramerMotion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
+---
 
+### 📊 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=radical" alt="github stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdmo74&theme=radical" alt="streak" height="160"/>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7mdmo74&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=radical" alt="top langs"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+- 🏠 [Makanly](https://www.makanly.com/) – Real estate platform built with Next.js, TypeScript & Tailwind  
+- 🛒 [Al Nassr SC Store](https://store.alnassr.sa/) – Official eCommerce platform for global football fans  
+- 💡 [Lighting Address](https://lightingaddress.com/) – Responsive eCommerce site  
+- 🛍️ [Al Emar International](https://shop.al-emar.com/) – ECommerce platform for sanitary & finishing products  
+- 🎨 [Bassant Portfolio Theme](https://bassant-portfolio.ahmedmuhammad.site/) – WordPress theme for portfolios  
+
+---
+
+### 👀 Visitor Counter
 <a href="https://komarev.com/ghpvc/?username=a7mdmo74&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=a7mdmo74&style=for-the-badge">
 </a>
+
+---
+
+✨ _"Code is not just about logic, it’s about creating experiences."_  
