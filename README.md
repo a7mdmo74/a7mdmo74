@@ -4,40 +4,79 @@
 <h2 align="center">Front-End Developer | React.js • Next.js • TypeScript</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&vCenter=true&width=500&lines=Creating+beautiful+%26+scalable+web+apps;3%2B+years+experience+in+Frontend;Lover+of+Clean+Code+%26+Modern+UI%2FUX;Always+learning+new+technologies" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&vCenter=true&width=500&lines=Creating+beautiful+%26+scalable+web+apps;3%2B+years+experience+in+Frontend;Clean+Code+%26+Modern+UI%2FUX;Always+learning+new+technologies" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 About Me
-Hi, I’m **Ahmed Muhammad** – a passionate **Front-End Developer** from Egypt 🇪🇬.  
-I’ve worked on **real-world projects** like eCommerce platforms, admin dashboards, and social apps.  
-I focus on **performance, accessibility, and elegant UI/UX**.
+## 👨‍💻 About Me
+Hi, I’m **Ahmed Muhammad**, a passionate **Front-End Developer** with over 3 years of experience building modern, scalable, and user-friendly web applications.  
 
-- 🚀 Currently exploring **Next.js 15** & advanced UI frameworks  
-- ✨ Building **WordPress themes** alongside React/Next.js projects  
-- 📍 Open for **frontend opportunities in Emirates 🇦🇪**  
-- 🎯 Motto: *"Code is not just logic – it’s an experience"*  
+✨ What defines me as a developer:  
+- 🚀 **Performance-Oriented** – I care deeply about speed, SEO, and accessibility.  
+- 🎨 **UI/UX Focused** – I design and implement interfaces that feel smooth and intuitive.  
+- 🤝 **Collaborative** – I enjoy working with backend teams, designers, and product managers.  
+- 🌍 **Global Mindset** – Built platforms for **football clubs, eCommerce, and real estate** used by international users.  
+
+I believe in **clean code, scalability, and delightful experiences** that users remember.  
 
 ---
 
-## 🛠 Tech Toolbox
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,redux,prisma,mongodb,vercel,git,github,figma,postman,sass" />
-</p>
+## 🛠 Tech Stack
+
+### ⚡ Languages & Frameworks
+- **JavaScript (ES6+), TypeScript**  
+- **React.js, Next.js 15, React Native**  
+- **Node.js, Express.js**
+
+### 🎨 Styling & UI
+- **Tailwind CSS, ShadCN/UI, Sass, Material-UI**  
+- **Framer Motion (animations), NativeWind (mobile)**
+
+### 🗄️ Databases & APIs
+- **MongoDB, Prisma ORM**  
+- **REST APIs, Clerk, NextAuth, Kinde**
+
+### ⚙️ Tools & Platforms
+- **Git, GitHub, Postman, Vercel, Figma, Android Studio**  
+- **Agile workflows & team collaboration**  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 Next.js & React Projects
-- 🏠 **[Makanly](https://www.makanly.com/)** – Real estate platform with Next.js, TypeScript, Tailwind  
-- 🛒 **[Al Nassr SC Store](https://store.alnassr.sa/)** – Global eCommerce for Al-Nassr football club  
-- 💡 **[Lighting Address](https://lightingaddress.com/)** – Modern eCommerce UI  
-- 🛍️ **[Al Emar International](https://shop.al-emar.com/)** – Product showcase with responsive design  
+### 🏠 [Makanly](https://www.makanly.com/)
+**Stack:** Next.js, React, TypeScript, Tailwind CSS  
+- Developed a **real estate platform** with responsive UI and scalable architecture.  
+- Implemented SEO best practices and optimized performance.  
 
-### 🎨 WordPress Theme
-- ✨ **[Bassant Portfolio Theme](https://bassant-portfolio.ahmedmuhammad.site/)** – A WordPress portfolio theme for creatives  
+---
+
+### 🛒 [Al Nassr SC Store](https://store.alnassr.sa/)
+**Stack:** React, Tailwind CSS, REST APIs  
+- Built the official **multilingual eCommerce platform** for Al-Nassr football club.  
+- Delivered a responsive and seamless shopping experience for **global fans**.  
+
+---
+
+### 💡 [Lighting Address](https://lightingaddress.com/)
+**Stack:** React, Tailwind CSS, REST APIs  
+- Designed a modern eCommerce experience for a lighting products company.  
+- Focused on **fast load times** and **mobile-first design**.  
+
+---
+
+### 🛍️ [Al Emar International](https://shop.al-emar.com/)
+**Stack:** React, Tailwind CSS, REST APIs  
+- Developed the front-end for an advanced finishing and sanitary products store.  
+- Created a **clean product showcase** with smooth navigation.  
+
+---
+
+### 🎨 [Bassant Portfolio Theme](https://bassant-portfolio.ahmedmuhammad.site/)
+**Stack:** WordPress, Custom Theme Development  
+- Designed and developed a **portfolio theme** for creative professionals.  
+- Focused on **minimal design** and **easy customization**.  
 
 ---
 
