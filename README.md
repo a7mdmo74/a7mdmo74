@@ -1,36 +1,43 @@
-<!-- Hero Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Amer&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=22&descAlignY=72&descAlign=50" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ahmed%20Amer%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<h2 align="center">Senior Front-End Engineer | React • Next.js • TypeScript</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Scalable+Full+Stack+Systems;4%2B+Years+%7C+UAE+%F0%9F%87%A6%F0%9F%87%AA+%7C+Fintech+%26+Gov+%26+eCommerce;Performance+%E2%9A%A1+%7C+Architecture+%F0%9F%8F%97+%7C+Delivery+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=550&lines=Building+scalable+%26+high-performance+web+apps;4%2B+years+experience+in+Frontend+Engineering;Expert+in+React+%2F+Next.js+%2F+TypeScript;Focused+on+Performance+%26+Architecture" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://a7mdmo74.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/a7mdmo74)
+[![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:a7mdmo74@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+971%2056%20976%208196-0f2027?style=for-the-badge&logo=whatsapp&logoColor=38BDF8)](https://wa.me/971569768196)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Front-End Engineer with **4+ years of experience** delivering **production-grade web applications** across **fintech, government, and eCommerce sectors in the UAE**.
+> **Senior Full Stack Engineer** with **4+ years** of experience delivering **production-grade web applications** across **fintech, government, and eCommerce sectors in the UAE**.
 
-I specialize in building **scalable, high-performance systems** with a strong focus on:
+I build end-to-end systems — from performant, accessible frontends to scalable backend APIs — with a relentless focus on:
 
-* ⚡ **Performance & Core Web Vitals**
-* 🧠 **Frontend Architecture & Scalability**
-* ♿ **Accessibility & UX Excellence**
-* 🔍 **SEO Optimization**
-
-I don’t just build interfaces — I build **systems that scale and perform under real-world conditions**.
+| ⚡ Performance | 🏗 Architecture | ♿ Accessibility | 🔍 SEO |
+|:-:|:-:|:-:|:-:|
+| Core Web Vitals | Scalable Design | WCAG Standards | Next.js SSR/SSG |
 
 ```ts
 const ahmed = {
-  role: "Senior Front-End Engineer",
-  location: "UAE 🇦🇪",
+  role     : "Full Stack Developer",
+  location : "UAE 🇦🇪",
   experience: "4+ Years",
-  stack: ["React", "Next.js", "TypeScript", "Node.js"],
-  currentFocus: ["System Design", "Performance Optimization", "Scalable Architectures"],
-  funFact: "I optimize Core Web Vitals for fun ⚡"
+  stack    : {
+    frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend  : ["Node.js", "Bun", "Hono", "Express", "REST", "WebSockets"],
+    database : ["PostgreSQL (Neon)", "MongoDB", "Redis"],
+    orm      : ["Drizzle ORM", "Prisma"],
+    auth     : ["JWT", "Clerk", "NextAuth.js", "Kinde"],
+    mobile   : ["React Native"],
+  },
+  currentFocus: ["System Design", "ERP Platforms", "Performance Optimization"],
+  funFact  : "I optimize Core Web Vitals for fun ⚡",
 };
 ```
 
@@ -38,170 +45,130 @@ const ahmed = {
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,bun" />
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,redux,mongodb,postgres,redis,prisma" />
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode" />
-</p>
+<div align="center">
 
-### ⚡ Core Technologies
+**Frontend**
 
-* **Frontend:** React.js, Next.js, TypeScript, Angular, React Native
-* **Backend:** Node.js, Express, Bun, Hono
-* **State & Data:** Redux, Context API, React Query
-* **Databases:** PostgreSQL (Neon), MongoDB, Redis
-* **ORMs:** Prisma, Drizzle ORM
-* **Validation:** Zod
-* **Auth:** JWT, Clerk, NextAuth, Kinde
-* **Testing:** Jest, React Testing Library
+![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f2027?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-0f2027?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React Native](https://img.shields.io/badge/React_Native-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f2027?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Redux](https://img.shields.io/badge/Redux-0f2027?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Bun](https://img.shields.io/badge/Bun-0f2027?style=for-the-badge&logo=bun&logoColor=F9F1E1)
+![Express](https://img.shields.io/badge/Express-0f2027?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0f2027?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-0f2027?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0f2027?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0f2027?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0f2027?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jest](https://img.shields.io/badge/Jest-0f2027?style=for-the-badge&logo=jest&logoColor=C21325)
+
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer @ Palm Code (UAE)
-
+### 🏢 Palm Code — Full Stack Developer *(UAE · Full Time)*
 **Oct 2025 – Present**
 
-* Built **enterprise accounting platform (Accounty)** comparable to ERP systems
-* Developed **rental car ERP system** with real-time tracking & booking workflows
-* Modernized **government systems** used in Sharjah & Abu Dhabi
-* Designed scalable architecture using:
-
-  * React + Bun + Hono
-  * PostgreSQL (Neon) + Drizzle ORM
-* Focused on **performance, reliability, and type safety**
+- 🧾 Built **Accounty** — an enterprise accounting platform comparable to Odoo, supporting multi-currency financial workflows and advanced reporting
+- 🚗 Designed & developed a full-featured **Rental Car ERP System** with real-time inventory tracking, automated booking workflows, and integrated CRM
+- 🏛 Modernized a **government slaughterhouse management system** deployed across Sharjah & Abu Dhabi municipalities
+- ⚙️ Architected full-stack solutions with **React + Bun + Hono + Zod + Neon PostgreSQL + Drizzle ORM**
 
 ---
 
-### 🏢 Front-End Developer @ NeoXero
-
+### 🏢 NeoXero — Front-End Developer *(Full Time)*
 **Sep 2023 – Sep 2025**
 
-* Built **SEO-optimized web applications** using React & Next.js
-* Improved **Core Web Vitals and performance metrics**
-* Delivered **production-ready scalable frontend systems**
+- Built **SEO-optimized, high-performance** web applications using React & Next.js
+- Improved **Core Web Vitals** and frontend performance metrics for production systems
 
 ---
 
-### 🌐 Front-End Developer @ WeCode (Remote)
-
+### 🌐 WeCode — Front-End Developer *(Remote · Part Time)*
 **Apr 2023 – Jan 2024**
 
-* Developed high-performance React/Next.js apps
-* Collaborated with designers to deliver **accessible UI/UX**
-* Focused on **clean code and scalability**
+- Delivered high-performance React/Next.js apps focused on SEO and performance
+- Collaborated with UI/UX teams to implement **accessible, user-centered interfaces**
 
 ---
 
-### 💻 Web Developer @ Eskan Al Mansoura
-
+### 💻 Eskan Al Mansoura — Web Developer *(Full Time)*
 **Feb 2022 – Aug 2023**
 
-* Built responsive and accessible React applications
-* Ensured **cross-browser compatibility & performance**
+- Developed scalable, responsive, and accessible **React.js UIs** with full cross-browser compatibility
 
 ---
 
 ## 🚀 Key Projects
 
-### 🧾 Accounty (ERP Platform)
-
-* Enterprise accounting system with **multi-currency workflows**
-* Advanced reporting & financial management
-
-### 🚗 Rental Car ERP System
-
-* Real-time inventory tracking
-* Automated booking workflows
-* CRM & payment integration
-
-### 🏛 Government Management System
-
-* Used across **Sharjah & Abu Dhabi municipalities**
-* Improved compliance tracking & operational efficiency
-
-### 📱 Namoos Mobile App
-
-* Built with React Native & TypeScript
-* Cross-platform performance optimization
-
-### 🛒 E-Commerce Platforms
-
-* **Al Nassr Store** (Football Club)
-* **Lighting Address**
-* **AlQarat (KSA)**
-
-### 🏠 Makanly
-
-* Real estate platform with advanced filtering
-* Built using Next.js + TypeScript
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🧾 Accounty** | Enterprise ERP accounting platform with multi-currency & reporting | React, Bun, Hono, Neon, Drizzle |
+| **🚗 Rental Car ERP** | Real-time inventory, bookings, CRM & payments | React, TypeScript, Node.js |
+| **🏛 Gov. Management System** | Sharjah & Abu Dhabi municipalities — compliance & operations | React, Next.js |
+| **📱 Namoos App** | iOS & Android mobile app — available on App Store | React Native, TypeScript |
+| **⚽ Al Nassr SC Store** | Multilingual e-commerce for the official football club store | React, Tailwind, REST API |
+| **🏠 Makanly** | Real estate platform with advanced search & filtering | Next.js, TypeScript, Tailwind |
+| **🛒 AlQarat (KSA)** | Fashion & home décor e-commerce platform | React, Tailwind CSS |
+| **💡 Lighting Address** | Scalable e-commerce for smart lighting solutions | React, Next.js |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdmo74&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="170"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=a7mdmo74&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
 
-## 🎓 Education
-
-🎓 Bachelor of Computer Science & IT
-Mansoura University (2019 – 2023)
+</div>
 
 ---
 
-## 📜 Certifications
+## 🎓 Education & Certifications
 
-* Node.js, Nest.js, PostgreSQL & GraphQL – Udemy (2026)
-* React Native Mobile Apps – ITI (2023)
-* Next.js & React – Udemy (2023)
-* freeCodeCamp Certifications (Frontend, JS, Responsive Design)
+🎓 **Bachelor of Computer Science & IT** — Mansoura University *(2019 – 2023)*
 
----
-
-## 🧠 Strengths
-
-* 🏗 Scalable System Architecture
-* ⚡ Performance Optimization Expert
-* 🤝 Cross-functional Collaboration
-* 🎯 Delivery under tight deadlines
+| Certificate | Platform | Year |
+|-------------|----------|------|
+| Node.js, Nest.js, PostgreSQL, GraphQL & Security | Udemy | 2026 |
+| React Native Mobile Apps | ITI | 2023 |
+| Next.js & React – The Complete Guide | Udemy | 2023 |
+| Front-End Development Libraries | freeCodeCamp | 2021 |
+| JavaScript Algorithms & Data Structures | freeCodeCamp | 2021 |
+| Responsive Web Design | freeCodeCamp | 2021 |
 
 ---
 
 ## 🌍 Languages
 
-* Arabic — Native
-* English — Professional (B2)
+![Arabic](https://img.shields.io/badge/Arabic-Native-0f2027?style=flat-square&logo=googletranslate&logoColor=38BDF8)
+![English](https://img.shields.io/badge/English-B2%20Professional-0f2027?style=flat-square&logo=googletranslate&logoColor=38BDF8)
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="https://a7mdmo74.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/a7mdmo74">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:a7mdmo74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
+<div align="center">
   <i>💡 Building systems. Optimizing performance. Delivering impact.</i>
-</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
