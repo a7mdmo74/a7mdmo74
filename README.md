@@ -1,56 +1,36 @@
 <!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,100:7928ca&height=200&section=header&text=Ahmed%20Muhammad%20👨‍💻&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
-<h2 align="center">Front-End Developer | React.js • Next.js • TypeScript</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ahmed%20Amer%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&vCenter=true&width=500&lines=Creating+beautiful+%26+scalable+web+apps;3%2B+years+experience+in+Frontend;Clean+Code+%26+Modern+UI%2FUX;Always+learning+new+technologies" alt="Typing animation" />
-</p>
-
-<!-- Social Links - Prominent Position -->
-<p align="center">
-  <a href="https://a7mdmo74.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-7928ca?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/a7mdmo74" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:a7mdmo74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/a7mdmo74" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<h2 align="center">Senior Front-End Engineer | React • Next.js • TypeScript</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7mdmo74&color=f75c7e&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-f75c7e?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-7928ca?style=flat-square" alt="Open to Work"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=550&lines=Building+scalable+%26+high-performance+web+apps;4%2B+years+experience+in+Frontend+Engineering;Expert+in+React+%2F+Next.js+%2F+TypeScript;Focused+on+Performance+%26+Architecture" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ahmed Muhammad**, a passionate **Front-End Developer** with **3+ years** of experience building modern, scalable, and user-friendly web applications.
+Senior Front-End Engineer with **4+ years of experience** delivering **production-grade web applications** across **fintech, government, and eCommerce sectors in the UAE**.
 
-**What defines me as a developer:**
+I specialize in building **scalable, high-performance systems** with a strong focus on:
 
-🚀 **Performance-Oriented** – I care deeply about speed, SEO, and accessibility  
-🎨 **UI/UX Focused** – I design and implement interfaces that feel smooth and intuitive  
-🤝 **Collaborative** – I enjoy working with backend teams, designers, and product managers  
-🌍 **Global Mindset** – Built platforms for **football clubs, eCommerce, and real estate** used by international users
+* ⚡ **Performance & Core Web Vitals**
+* 🧠 **Frontend Architecture & Scalability**
+* ♿ **Accessibility & UX Excellence**
+* 🔍 **SEO Optimization**
 
-I believe in **clean code, scalability, and delightful experiences** that users remember.
+I don’t just build interfaces — I build **systems that scale and perform under real-world conditions**.
 
-```javascript
+```ts
 const ahmed = {
-  location: "Cairo, Egypt",
-  languages: ["Arabic (Native)", "English (B2)"],
-  currentFocus: ["Next.js 15", "TypeScript", "Performance Optimization"],
-  askMeAbout: ["React", "Next.js", "Frontend Architecture", "UI/UX"],
-  funFact: "I turn coffee into responsive web apps ☕️"
+  role: "Senior Front-End Engineer",
+  location: "UAE 🇦🇪",
+  experience: "4+ Years",
+  stack: ["React", "Next.js", "TypeScript", "Node.js"],
+  currentFocus: ["System Design", "Performance Optimization", "Scalable Architectures"],
+  funFact: "I optimize Core Web Vitals for fun ⚡"
 };
 ```
 
@@ -59,193 +39,169 @@ const ahmed = {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express" alt="Tech Stack 1"/>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,mongodb,prisma,git,github" alt="Tech Stack 2"/>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,vercel,postman,androidstudio" alt="Tech Stack 3"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,bun" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,redux,mongodb,postgres,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode" />
 </p>
 
-### ⚡ Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+### ⚡ Core Technologies
 
-### 🎨 Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### 🗄️ Databases & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+* **Frontend:** React.js, Next.js, TypeScript, Angular, React Native
+* **Backend:** Node.js, Express, Bun, Hono
+* **State & Data:** Redux, Context API, React Query
+* **Databases:** PostgreSQL (Neon), MongoDB, Redis
+* **ORMs:** Prisma, Drizzle ORM
+* **Validation:** Zod
+* **Auth:** JWT, Clerk, NextAuth, Kinde
+* **Testing:** Jest, React Testing Library
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Front-End Developer @ **NeoXero**
-*Feb 2025 – Present | Full Time*
-- 🚀 Built dynamic web applications using **React.js** and **Next.js**
-- 🔍 Enhanced **SEO practices** and optimized performance metrics
-- 🤝 Collaborated with backend teams to integrate **RESTful APIs**
+### 🏢 Full Stack Developer @ Palm Code (UAE)
 
-### 🌐 Front-End Developer @ **WeCode** (Remote)
-*Jan 2025 – Mar 2025 | Part Time*
-- ⚡ Developed React/Next.js applications focusing on **performance optimization**
-- ♿ Ensured **responsive design**, **accessibility**, and **scalability**
-- ✅ Contributed to successful project outcomes with clean, maintainable code
+**Oct 2025 – Present**
+
+* Built **enterprise accounting platform (Accounty)** comparable to ERP systems
+* Developed **rental car ERP system** with real-time tracking & booking workflows
+* Modernized **government systems** used in Sharjah & Abu Dhabi
+* Designed scalable architecture using:
+
+  * React + Bun + Hono
+  * PostgreSQL (Neon) + Drizzle ORM
+* Focused on **performance, reliability, and type safety**
 
 ---
 
-## 🚀 Featured Projects
+### 🏢 Front-End Developer @ NeoXero
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Makanly</h3>
-      <p align="center">
-        <a href="https://www.makanly.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-7928ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-      <p><strong>Stack:</strong> Next.js, React, TypeScript, Tailwind CSS</p>
-      <p>✨ Developed a <strong>real estate platform</strong> with responsive UI and scalable architecture</p>
-      <p>🔍 Implemented SEO best practices and optimized performance</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛒 Al Nassr SC Store</h3>
-      <p align="center">
-        <a href="https://store.alnassr.sa/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-7928ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-      <p><strong>Stack:</strong> React, Tailwind CSS, REST APIs</p>
-      <p>⚽ Built the official <strong>multilingual eCommerce platform</strong> for Al-Nassr football club</p>
-      <p>🌍 Delivered a responsive shopping experience for <strong>global fans</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💡 Lighting Address</h3>
-      <p align="center">
-        <a href="https://lightingaddress.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-7928ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-      <p><strong>Stack:</strong> React, Tailwind CSS, REST APIs</p>
-      <p>🏪 Designed a modern eCommerce experience for a lighting products company</p>
-      <p>⚡ Focused on <strong>fast load times</strong> and <strong>mobile-first design</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛍️ Al Emar International</h3>
-      <p align="center">
-        <a href="https://shop.al-emar.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-7928ca?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-      <p><strong>Stack:</strong> React, Tailwind CSS, REST APIs</p>
-      <p>🚿 Developed the front-end for an advanced finishing and sanitary products store</p>
-      <p>🎯 Created a <strong>clean product showcase</strong> with smooth navigation</p>
-    </td>
-  </tr>
-</table>
+**Sep 2023 – Sep 2025**
+
+* Built **SEO-optimized web applications** using React & Next.js
+* Improved **Core Web Vitals and performance metrics**
+* Delivered **production-ready scalable frontend systems**
+
+---
+
+### 🌐 Front-End Developer @ WeCode (Remote)
+
+**Apr 2023 – Jan 2024**
+
+* Developed high-performance React/Next.js apps
+* Collaborated with designers to deliver **accessible UI/UX**
+* Focused on **clean code and scalability**
+
+---
+
+### 💻 Web Developer @ Eskan Al Mansoura
+
+**Feb 2022 – Aug 2023**
+
+* Built responsive and accessible React applications
+* Ensured **cross-browser compatibility & performance**
+
+---
+
+## 🚀 Key Projects
+
+### 🧾 Accounty (ERP Platform)
+
+* Enterprise accounting system with **multi-currency workflows**
+* Advanced reporting & financial management
+
+### 🚗 Rental Car ERP System
+
+* Real-time inventory tracking
+* Automated booking workflows
+* CRM & payment integration
+
+### 🏛 Government Management System
+
+* Used across **Sharjah & Abu Dhabi municipalities**
+* Improved compliance tracking & operational efficiency
+
+### 📱 Namoos Mobile App
+
+* Built with React Native & TypeScript
+* Cross-platform performance optimization
+
+### 🛒 E-Commerce Platforms
+
+* **Al Nassr Store** (Football Club)
+* **Lighting Address**
+* **AlQarat (KSA)**
+
+### 🏠 Makanly
+
+* Real estate platform with advanced filtering
+* Built using Next.js + TypeScript
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdmo74&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdmo74&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7mdmo74&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education
 
-**🎓 Education**
-- Bachelor of Computer Science, **Mansoura University** (2019–2023)
-
-**📜 Certifications**
-- ✅ Next.js 15 & React - The Complete Guide | Udemy (2023)
-- ✅ React Certification | Udemy (2023)
-- ✅ Front End Development Libraries | freeCodeCamp (2022)
-- ✅ JavaScript Algorithms and Data Structures | freeCodeCamp (2022)
-- ✅ Responsive Web Design | freeCodeCamp (2021)
+🎓 Bachelor of Computer Science & IT
+Mansoura University (2019 – 2023)
 
 ---
 
-## 📈 Career Timeline
+## 📜 Certifications
 
-```mermaid
-graph LR
-    A[2019] -->|Started| B[Computer Science<br/>Mansoura University]
-    B --> C[2023]
-    C -->|Graduated| D[2025]
-    D -->|Jan-Mar| E[WeCode<br/>Remote]
-    D -->|Feb-Present| F[NeoXero<br/>Full Time]
-```
+* Node.js, Nest.js, PostgreSQL & GraphQL – Udemy (2026)
+* React Native Mobile Apps – ITI (2023)
+* Next.js & React – Udemy (2023)
+* freeCodeCamp Certifications (Frontend, JS, Responsive Design)
 
 ---
 
-## 🌟 What I'm Up To
+## 🧠 Strengths
 
-- 🔭 Currently working on **Next.js 15** projects with advanced **Server Components**
-- 🌱 Learning **Three.js** for 3D web experiences
-- 👯 Looking to collaborate on **open source React/Next.js projects**
-- 💬 Ask me about **React, Next.js, TypeScript, Performance Optimization**
-- 📫 Reach me: **a7mdmo74@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!** 😄
+* 🏗 Scalable System Architecture
+* ⚡ Performance Optimization Expert
+* 🤝 Cross-functional Collaboration
+* 🎯 Delivery under tight deadlines
 
 ---
 
-## 📬 Let's Connect & Collaborate!
+## 🌍 Languages
+
+* Arabic — Native
+* English — Professional (B2)
+
+---
+
+## 📬 Contact
 
 <p align="center">
-  <a href="https://a7mdmo74.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-7928ca?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <a href="https://a7mdmo74.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/a7mdmo74" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/a7mdmo74">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:a7mdmo74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/a7mdmo74" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ If you like my work, consider giving my repos a star! It means a lot! ⭐️</i>
+  <i>💡 Building systems. Optimizing performance. Delivering impact.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,100:7928ca&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
