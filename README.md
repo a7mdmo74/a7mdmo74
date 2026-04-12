@@ -135,11 +135,13 @@ const ahmed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7mdmo74&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a7mdmo74&theme=github_dark" height="165"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=a7mdmo74&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=a7mdmo74&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdmo74&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a7mdmo74&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a7mdmo74&theme=github_dark" height="165"/>
 
 </div>
 
